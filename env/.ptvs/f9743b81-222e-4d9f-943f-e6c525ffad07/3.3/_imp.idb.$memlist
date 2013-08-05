@@ -1,0 +1,16 @@
+__doc__
+init_builtin
+acquire_lock
+is_frozen_package
+is_frozen
+_fix_co_filename
+load_dynamic
+lock_held
+init_frozen
+extension_suffixes
+__name__
+get_frozen_object
+release_lock
+__loader__
+__package__
+is_builtin

@@ -1,0 +1,11 @@
+HTTPError
+PoolError
+RequestError
+SSLError
+DecodeError
+MaxRetryError
+HostChangedError
+TimeoutError
+EmptyPoolError
+ClosedPoolError
+LocationParseError

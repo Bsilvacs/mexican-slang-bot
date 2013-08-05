@@ -1,0 +1,10 @@
+RequestException
+HTTPError
+ConnectionError
+SSLError
+Timeout
+URLRequired
+TooManyRedirects
+MissingSchema
+InvalidSchema
+InvalidURL

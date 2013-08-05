@@ -1,0 +1,15 @@
+__all__
+partial
+reduce
+namedtuple
+RLock
+WRAPPER_ASSIGNMENTS
+WRAPPER_UPDATES
+update_wrapper
+wraps
+total_ordering
+cmp_to_key
+_CacheInfo
+_HashedSeq
+_make_key
+lru_cache

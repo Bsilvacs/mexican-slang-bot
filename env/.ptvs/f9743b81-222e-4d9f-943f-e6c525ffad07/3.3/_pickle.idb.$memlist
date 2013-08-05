@@ -1,0 +1,13 @@
+PicklingError
+dumps
+__doc__
+load
+Pickler
+__package__
+__loader__
+Unpickler
+__name__
+dump
+loads
+UnpicklingError
+PickleError

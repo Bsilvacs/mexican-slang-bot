@@ -1,0 +1,13 @@
+date
+MINYEAR
+__doc__
+timezone
+tzinfo
+timedelta
+MAXYEAR
+__package__
+datetime
+__loader__
+__name__
+datetime_CAPI
+time

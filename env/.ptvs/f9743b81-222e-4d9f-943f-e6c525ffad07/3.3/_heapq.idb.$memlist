@@ -1,0 +1,12 @@
+__about__
+nsmallest
+__doc__
+nlargest
+__package__
+heapify
+heappush
+__loader__
+__name__
+heappop
+heapreplace
+heappushpop

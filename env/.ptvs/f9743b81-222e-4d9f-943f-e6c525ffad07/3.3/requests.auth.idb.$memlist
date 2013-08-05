@@ -1,0 +1,17 @@
+os
+re
+time
+hashlib
+logging
+b64encode
+urlparse
+str
+parse_dict_header
+log
+CONTENT_TYPE_FORM_URLENCODED
+CONTENT_TYPE_MULTI_PART
+_basic_auth_str
+AuthBase
+HTTPBasicAuth
+HTTPProxyAuth
+HTTPDigestAuth

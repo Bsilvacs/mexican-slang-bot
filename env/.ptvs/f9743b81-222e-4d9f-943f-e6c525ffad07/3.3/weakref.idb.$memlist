@@ -1,0 +1,15 @@
+getweakrefcount
+getweakrefs
+ref
+proxy
+CallableProxyType
+ProxyType
+ReferenceType
+WeakSet
+_IterationGuard
+collections
+ProxyTypes
+__all__
+WeakValueDictionary
+KeyedRef
+WeakKeyDictionary

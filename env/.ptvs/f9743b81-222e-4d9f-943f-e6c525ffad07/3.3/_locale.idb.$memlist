@@ -1,0 +1,17 @@
+__name__
+strcoll
+__doc__
+strxfrm
+CHAR_MAX
+setlocale
+__package__
+_getdefaultlocale
+localeconv
+LC_NUMERIC
+LC_CTYPE
+LC_TIME
+LC_MONETARY
+__loader__
+LC_ALL
+Error
+LC_COLLATE
