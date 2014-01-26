@@ -1,8 +1,8 @@
 import praw
 
 r = praw.Reddit('Mexican Slang Bot 1.0 by u/CockMySock')
-r.login('MexicanSlangBot', 'bucalesa')
-prawWords = ['I am going to kill you.', 'I\'m gonna kill you.', 'I\'ll kill you.', 'I will kill you', 'I will hurt you', 'I\'m gonna hurt you.', 'I am going to hurt you.', 'I\'ll hurt you.']
+r.login('MexicanSlangBot', '')
+prawWords = ['Hola.']
 already_done = []
 while True:
     subreddit = r.get_subreddit('cocktest')
