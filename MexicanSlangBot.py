@@ -1,6 +1,6 @@
 import praw
 
-r = praw.Reddit('Mexican Slang Bot 1.0 by u/CockMySock')
+r = praw.Reddit('Mexican Slang Bot 1.0 by u/ComSock')
 r.login('MexicanSlangBot', '')
 prawWords = ['Hola.']
 already_done = []
