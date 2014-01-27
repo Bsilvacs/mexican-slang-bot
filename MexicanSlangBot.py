@@ -5,7 +5,7 @@ r.login('MexicanSlangBot', '')
 prawWords = ['Hola.']
 already_done = []
 while True:
-    subreddit = r.get_subreddit('cocktest')
+    subreddit = r.get_subreddit('comtest')
     subreddit_comments = subreddit.get_comments()
     for comment in subreddit_comments:
         if comment.id not in already_done:
